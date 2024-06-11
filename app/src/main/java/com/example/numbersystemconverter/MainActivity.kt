@@ -60,7 +60,7 @@ fun NumberConverter(modifier: Modifier = Modifier) {
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
             Text(text="Number Conversion System", fontSize = 24.sp, fontWeight = FontWeight.Bold)
-            Text(text="Made with ❤ by Rafael A. Mendoza", fontSize = fontSize)
+            Text(text="Made with ❤ by Lindrew", fontSize = fontSize)
         }
         Row (Modifier.padding(10.dp)) {
             Dropdown(
